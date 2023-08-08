@@ -1,0 +1,111 @@
+
+
+
+
+#topbar{
+    background-color: black;
+    width:100vw;
+    height:10%;
+    
+}
+
+#amazon{
+    width :10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+#heading{
+    margin-left: 40%;
+}
+
+.buttons:hover{
+    transform: scale(1.1);
+
+}
+
+
+
+
+#red{
+    background-color: red;
+    color:red;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#black{
+    background-color: black;
+    color:black;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#blue{
+    background-color: blue;
+    color:blue;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#pink{
+    background-color: #e9c7be;
+    color:#e9c7be;
+    outline-color: rgb(0, 0, 0);
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#purple{
+    background-color: purple;
+    color:purple;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.images{
+    position: absolute;
+    width:40%;
+    top:10%;
+    left:-1%;
+    
+   
+}
+
+#time{
+    background-color: rgb(230, 113, 113);
+    outline-style: auto;
+    margin-bottom: 5%;
+
+}
+
+#time:hover{
+    transform: scale(1.1);
+}
+
+#buy-now{
+    background-color: rgb(255, 221, 0);
+    outline: auto;
+}
+
+#buy-now:hover{
+    transform: scale(1.1);
+    
+}
+
+#heading1{
+    margin-left: 40%;
+}
+
